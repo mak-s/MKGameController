@@ -2,6 +2,8 @@
 
 A simple Direction pad touch controller for SpriteKit games. 
 
+![A D-Pad style touch controller overlayed on a scene](/assets/d_pad_controller_overlayed_on_scene.png)
+
 ## How to use?
 
 - Instantiate an instance of TouchControllerNode and add it to the camera node in your scene.
